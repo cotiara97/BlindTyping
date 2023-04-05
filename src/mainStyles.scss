@@ -1,0 +1,13 @@
+@use "_reset.scss";
+@use "./Components/Header/Header.module";
+
+#root{
+    width: 100vw;
+    height: 100vh;
+    background: #121212;
+}
+
+.App{
+    width: 100vw;
+}
+
