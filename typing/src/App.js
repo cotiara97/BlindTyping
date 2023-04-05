@@ -2,9 +2,9 @@
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-      </header>
+      <p>
+        popa
+      </p>
     </div>
   );
 }
